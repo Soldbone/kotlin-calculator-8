@@ -6,6 +6,7 @@ fun main() {
     // TODO: 프로그램 구현
 
     // [feat] 기능 0: 입력
+    println("덧셈할 문자열을 입력해 주세요.")
     val calculatorInput: String = Console.readLine()
 
     // [feat] 기능 1-1: 구분자(쉼표, 콜론)를 기준으로 숫자로 분리하는 기능
